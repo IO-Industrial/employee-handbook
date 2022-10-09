@@ -11,6 +11,8 @@ Welcome to Employee Handbook's documentation!
    :caption: Contents:
 
    introduction
+   
+   banking
 
 Indices and tables
 ==================
